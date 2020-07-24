@@ -19,5 +19,4 @@ Q5) Assuming that we know the mean \bar{x}_{n-1} of a dataset D_{n-1} with n−1
 A5) xnˉ = x_{n-1}ˉ + 1/n+1 * (x_{n-1}ˉ - x∗)
 
 Q6) Assuming you are given an image as a two dimensional array of shape 28 x 28. Write a small piece of python code to reshape this image to a vector of length 784 (=28 x 28).
-Hint: This can be a one-liner.
 A6) x_reshaped = np.reshape(x, -1)
