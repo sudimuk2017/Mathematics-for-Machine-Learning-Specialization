@@ -1,6 +1,5 @@
 Q1) In the previous video you saw how to fit a line y = mx+cy=mx+c to linear data. In this quiz you will practise identifying data that is appropriate for linear regression, and initialise some fits yourself.
 Which of the following figures looks like it contains sensible data for a linear fit?
-A1) https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/34H0TABmEeioigpAcEC6QA_4a1fa4cd20b65752f54fd71d7301792c_LinOrNot_1aa.png?expiry=1552435200000&hmac=7fwvOgxLmCfSMoml72kTnA_H3D15CJApYGZqT80-c84
 
 Q2) Which of the following figures looks like it contains sensible data for a linear fit?
 A2) https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/hRzfXQBsEeiFAxLx1hQ1nA_dc4f8149c647f5dbfd0d5519f6d15efe_LinOrNot_2d.png?expiry=1552435200000&hmac=pXK6opkxpaoKjpsD1B2QlrZb-Ci4q4MpZeZ7OH3LYMk
