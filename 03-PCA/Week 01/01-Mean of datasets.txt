@@ -1,5 +1,4 @@
 Q1) What is the mean of the dataset \mathcal D = {1, 2, 3}?
-Do the exercises using pen and paper.
 A1) 2
 
 Q2) Compute the mean of the following dataset:
