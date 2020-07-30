@@ -8,7 +8,6 @@ A1) - There are at least 15 elements in the frequency vector, \mathbf{f}f.
 
 Q2) One of the tasks of machine learning is to fit a model to data in order to predict the underlying distribution.
 For the heights of a population, a model we may use to predict frequencies is the Normal (or Gaussian) distribution. This is a model for a bell-shaped curve, which looks like this,
-https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/zIBq5N6-EeezYwo5mdQmhA_71059b2f7bdb136d5243b83262cc42e6_f3.png?expiry=1550620800000&hmac=NkW1pwVy2umB2Dpuyjm43WDKpy8KWZpg2_UprTaWJCk
 It has an equation, the exact form of which is unimportant, except that it is dependant on two parameters, the mean, μ, where the curve is centred, and the standard deviation, σ, which is the characteristic width of the bell curve.
 We can put these two parameters in a vector p. Pick the parameter vector \mathbf{p}p which best describes the distribution pictured.
 A2) =[ 155
