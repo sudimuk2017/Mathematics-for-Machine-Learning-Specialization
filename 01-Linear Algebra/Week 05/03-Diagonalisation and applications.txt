@@ -1,4 +1,4 @@
-Q1) In this quiz you will diagonalise some matrices and apply this to simplify calculations.
+
 Given the matrix T =[[6, -1], [2, 3]] and change of basis matrix C =[[1, 1], [1, 2]] (whose columns are eigenvectors of T), calculate the diagonal matrix D = C^-1 T C.
 A1) [[5, 0], [0, 4]]
 
