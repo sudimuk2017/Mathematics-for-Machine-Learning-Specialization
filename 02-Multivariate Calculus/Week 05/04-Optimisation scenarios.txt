@@ -1,5 +1,4 @@
 Q1) Given the following contour plot,
-https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Y5zM1ggmEeigxxLHgCiRzA_1b53d82db11df49952a011d548c90f64_sp1.png?expiry=1552608000000&hmac=R5kUx2XaZET8q4FYq7BKLjikbQ-dZStSifUOg07-Ze0
 Which starting points (from 1 to 5) are likely to converge to the global minimum (shown by the mobile phone) when using a steepest descent algorithm?
 A1) - Starting point 1
 	- Starting point 3
