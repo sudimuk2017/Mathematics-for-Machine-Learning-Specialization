@@ -13,5 +13,4 @@ A4) https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/xxGvTgFLEei8AA61d4KN
 	https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/zrpw2gFLEei8sQphsIDdpA_c4bf313f807307c9f6dd6c7064c535a8_2402.png?expiry=1551484800000&hmac=QX-r0pAA20NSIBD6_9LjXGiilZ3e-stFq1VczWw5MLk
 
 Q5) What is the derivative at 00 for the function in the graph below?
-https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/AmICjgFMEeiIiQpriP2g2A_7185dbef8c34258b5405ba70ed2c1daa_2500.png?expiry=1551484800000&hmac=S2t2t24-LVFLeOlL2wkO0d5P7kyq9cHuLWAcIJGaI5Y
 A5) No derivative exists.
