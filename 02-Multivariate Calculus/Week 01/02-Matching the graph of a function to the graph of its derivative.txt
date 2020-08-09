@@ -1,6 +1,5 @@
 Q1) In this quiz you will practice estimating the derivative of a function by choosing the most suitable graphs.
 Estimate the gradient of the tangent to the function at the point (4, 2)(4,2) based on the image below.
-https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/ijz4dAgfEei_ZQ6W1G11dA_232e49b62ce8c6d622e7387d516834bd_2100.png?expiry=1551484800000&hmac=C_3BkggcAzTYkOxBF4WsS8qDOomZuLAHhURp_ga-CZE
 A1) The gradient is 1.
 
 Q2) Which diagram best describes the differential of the function in the following graph?
