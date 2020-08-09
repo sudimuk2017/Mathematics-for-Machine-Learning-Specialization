@@ -9,7 +9,6 @@ Q3) Which diagram best describes the differential of the function in the followi
 A3) https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/a00ZcAFLEei8AA61d4KNnA_f6607037de8aac44d0f967a9fed950a6_2201.png?expiry=1551484800000&hmac=J6mltz65IZNNwt-p7ki3sNrldDC1D7BMTw7Tg0Dmmb0
 
 Q4) Which diagram(s) has a differential described by the following image? Choose all correct answers.
-https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/uRf0rwFLEeixHxKyqA_btg_5ca958b4c1f0d0eaea07d26d297d46c7_2200.png?expiry=1551484800000&hmac=XZSckcOCniZMyjk9L1M01azIb-PK8D7DHUgOOb7FXbE
 A4) https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/xxGvTgFLEei8AA61d4KNnA_4e2ffce267f961d56dddb3d821c5614a_2401.png?expiry=1551484800000&hmac=zTR6g39ZFbCkwE66u76kHpEnLZOTjbALwGi0Fp3QcAQ
 	https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/zrpw2gFLEei8sQphsIDdpA_c4bf313f807307c9f6dd6c7064c535a8_2402.png?expiry=1551484800000&hmac=QX-r0pAA20NSIBD6_9LjXGiilZ3e-stFq1VczWw5MLk
 
