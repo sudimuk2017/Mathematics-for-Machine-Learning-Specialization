@@ -14,7 +14,6 @@ A3) https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/VSTU1NeXEeePfwrXRRPV
 Q4) A digital image can be stored by putting lots of coloured pixels at their particular coordinates on a grid.
 If we apply a matrix transformation to the coordinates of each of the pixels in an image, we transform the image as a whole.
 Given a starting image (such as this one of “The Ambassadors” [1533] by Hans Holbein the Younger),
-https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/kS-389YvEeezTQ70UUYu_g_6e80a2080a14c2da4c5ba96ca1ab6520_q3.1.png?expiry=1550707200000&hmac=4eAanpd2ESe4Km-lVK6KOEA6JvUitSxG5QqBMGiZnm0
 which is made up of 400×400 pixels, if we apply the same transformation to each of those 160,000 pixels, the transformed image becomes:
 https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/nueHMtYvEeezTQ70UUYu_g_d92072699ad10a7212e2b6378919bcf0_q3.2.png?expiry=1550707200000&hmac=kraU_HQPeqWSnByoK1h5KMOsT_s523vHEIAMQLAtIoQ
 Pick a matrix that could correspond to the transformation.
