@@ -21,8 +21,7 @@ A4) [[sqrt(3)/2, -1/2], [1/2, sqrt(3)/2]]
 Q5) At the bottom of the “The Ambassadors”, in the middle of the floor, there is a skull that Holbein has already applied a matrix transformation to!
 To undo the transformation, build a matrix which is firstly a shear in the y direction followed by a scaling in y direction. I.e., multiply the matrices,
 M=[[1, 0], [0, 8]] . [[1, -1/2], [0, 1]]
-A5) [[1, 0],
-	 [-4, 8]]
+A5) [[1, 0],[-4, 8]]
 
 Q6) Use your answer from the previous question to transform the skull back to normal. Change the values of the matrix and press Go! to score on this question.
 You can also use this example to experiment with other matrix transformations. Try some of the ones in this quiz. Have a play!
