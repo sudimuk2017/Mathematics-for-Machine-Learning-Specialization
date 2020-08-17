@@ -1,6 +1,5 @@
 Q1) Matrices make transformations on vectors, potentially changing their magnitude and direction.
 If we have two unit vectors (in orange) and another vector, r=[3, 2] (in pink), before any transformations - these look like this:
-https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/ecxsu9YfEeeB6wrT5AOI1g_c1ca5956d7d39d59aed1a9cda50005bb_q1.1.png?expiry=1550707200000&hmac=91-Yu9dR8uDSYsYJo5LQ4qCid-V7Q1Ft_s677tL2Kc0
 Take the matrix, A=[[1/2, -1], [0, 3/4]], see how it transforms the unit vectors and the vector,r\
 https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/qId37tYfEeeeiBK2pPwzgg_6b568f9f1bd1679308b345f4337e36a1_q1.2.png?expiry=1550707200000&hmac=ikZpdlsAE7byhxugl6-HerVaJSSsjQmSDSwbs668rQs
 What new vector, r', does A transform r to?
