@@ -15,7 +15,6 @@ Q4) A digital image can be stored by putting lots of coloured pixels at their pa
 If we apply a matrix transformation to the coordinates of each of the pixels in an image, we transform the image as a whole.
 Given a starting image (such as this one of “The Ambassadors” [1533] by Hans Holbein the Younger),
 which is made up of 400×400 pixels, if we apply the same transformation to each of those 160,000 pixels, the transformed image becomes:
-https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/nueHMtYvEeezTQ70UUYu_g_d92072699ad10a7212e2b6378919bcf0_q3.2.png?expiry=1550707200000&hmac=kraU_HQPeqWSnByoK1h5KMOsT_s523vHEIAMQLAtIoQ
 Pick a matrix that could correspond to the transformation.
 A4) [[sqrt(3)/2, -1/2], [1/2, sqrt(3)/2]]
 
