@@ -1,5 +1,5 @@
 Q1) In this quiz you will put into practice how to calculate the Jacobian from the lecture video.
-For f(x,y) = x^2y + \frac{3}{4}xy + 10, calculate the Jacobian row vector J.
+
 A1) J=[2xy + 3/4 y, x^2 + 3/4 x]
 
 Q2) For f(x,y) = e^xcos(y) + xe^{3y} -2, calculate the Jacobian row vector J.
