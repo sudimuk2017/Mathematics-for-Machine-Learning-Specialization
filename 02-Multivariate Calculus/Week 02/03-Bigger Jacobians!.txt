@@ -1,7 +1,6 @@
 Q1) In this quiz, you will calculate the Jacobian matrix for some vector valued functions.
 For the function u(x,y) = x^2 - y^2 and v(x,y) = 2xy, calculate the Jacobian matrix J.
-A1) J = [[2x, -2y],
-		 [2y, 2x]]
+A1) J = [[2x, -2y],[2y, 2x]]
 
 Q2) For the function u(x,y,z) = 2x + 3y, v(x, y, z) = cos(x)sin(z) and w(x,y,z) = e^xe^ye^z, calculate the Jacobian matrix J
 A2) J = [[2, 3, 0],
