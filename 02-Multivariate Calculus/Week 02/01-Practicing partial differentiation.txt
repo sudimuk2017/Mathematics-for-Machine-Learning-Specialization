@@ -1,5 +1,5 @@
 Q1) In this quiz, you will practice doing partial differentiation, and calculating the total derivative.
-
+Given f(x,y) = π x^3 + xy^2 + my^4, with m a constant, what are ∂x/∂f and ∂y/∂f?
 A1) ∂x/∂f = 3πx^2 + y^2,
 	∂y/∂f = 2xy + 4my^3
 
