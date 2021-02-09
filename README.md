@@ -1,3 +1,3 @@
-# Mathematics for Machine LearningSpecialization
+# Mathematics for Machine Learning Specialization
 
 Coursera
