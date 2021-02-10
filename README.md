@@ -1,6 +1,6 @@
 # Mathematics for Machine Learning Specialization
 **********************************************************************
 
-qwertyaghkbnm
+qwertyagkbnm
 
 Coursera
